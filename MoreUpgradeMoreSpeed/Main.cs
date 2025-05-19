@@ -29,8 +29,8 @@ namespace MoreUpgradeMoreSpeed
             isSlider = true
         };
 
-        public static string myDiscordFull = "susgus#2407";
-        public static string speedAPIDownloadURL = "https://github.com/StevenRafft/BloonsTD6Mods/raw/main/SpeedAPI/bin/Debug/net4.7.2/SpeedAPI.dll";
+        public static string myDiscordFull = "awild_goose";
+        public static string speedAPIDownloadURL = "https://github.com/awildergoose/BloonsTD6Mods/raw/main/SpeedAPI/bin/Debug/net4.7.2/SpeedAPI.dll";
 
         public override void OnApplicationLateStart()
         {
